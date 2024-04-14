@@ -1,0 +1,9 @@
+﻿Nätplan, Tech-R-LY;;;
+;;;
+Namn;IP-nätverk;VLAN;Beskrivning
+DMZ;10.0.1.0/24;2;Brandvägg, router, DNS, extern mail, extern webserver, webproxy för anställda.
+BYOD/Guest;192.168.0.0/24;3;Gästnät och medhavd utrustning.
+Restricted Lab;10.10.0.0/24;4;Hemligt nät för forskning, produktutveckling etc.
+Internal Services;10.20.0.0/24;5;Interna tjänster såsom intern mail och DNS, AD, webbserver för intranät, wiki, backup, skrivare, mm.
+Client;10.30.0.0/24;6;Klient-nätverk för de anställdas utrustning.
+Management;172.20.0.0/24;7;Administration av nätverksutrustning, lagring, fjärradmin-lösning för servrar.
