@@ -135,7 +135,7 @@ säkerhetsteam använder för att få svar på deras frågor om it-miljön.
 
 
 # Beskrivning av nätverk, etc
-## DMZ
+**Overview of the DMZ**:
 The Demilitarized Zone (DMZ) is a vital component of Tech-R-LY's network
 architecture, strategically positioned between the internal network and the
 external internet. It serves as a secure intermediary zone that facilitates
@@ -143,7 +143,6 @@ controlled access to public-facing services while enforcing stringent security
 measures to safeguard internal resources from potential threats originating from
 the internet.
 
-**Description of the DMZ**:
 The DMZ is meticulously designed to balance accessibility and security,
 providing a buffer zone that segregates public-facing services from the internal
 network. This architectural approach minimizes the risk of unauthorized access
