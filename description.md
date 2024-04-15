@@ -349,3 +349,77 @@ resilient Internal Services Network that centralizes essential services,
 promotes collaboration and productivity, and ensures the security and integrity
 of corporate resources and data.
 
+## Restricted Lab Network
+
+**Overview of the Restricted Lab Network**: 
+The Restricted Lab Network at Tech-R-LY is a specialized environment dedicated
+to research, development, and testing activities. It provides a secure and
+isolated platform where developers, engineers, and researchers can innovate,
+experiment, and collaborate on projects without the risk of interference or data
+compromise from external sources.
+
+**Key Functions of the Restricted Lab Network**:
+1. **Development and Testing**: The primary function of the Restricted Lab
+   Network is to support the development and testing of software, hardware, and
+   other technological solutions. It offers dedicated resources and tools for
+   designing, coding, testing, debugging, and refining products and prototypes.
+2. **Innovation and Experimentation**: The network fosters innovation and
+   experimentation by providing a controlled environment where researchers and
+   developers can explore new ideas, technologies, and methodologies without
+   constraints or risks to production systems.
+3. **Data Security and Confidentiality**: Security is paramount in the
+   Restricted Lab Network, with stringent access controls, encryption protocols,
+   and monitoring mechanisms in place to safeguard sensitive data and
+   intellectual property. Confidentiality is maintained to protect proprietary
+   information and research findings.
+
+**Services Hosted in the Restricted Lab Network**:
+1. **Restricted Lab Router**: Manages network traffic, enforces security
+   policies, and provides connectivity to internal and external resources.
+2. **Development Platform**: Offers computing resources, development tools, and
+   software environments for coding, testing, and debugging applications.
+3. **Backup Service**: Ensures data integrity and disaster recovery by regularly
+   backing up critical files, configurations, and project data.
+4. **High-Powered Workstations**: Provides powerful computing resources for
+   resource-intensive tasks such as simulations, modeling, and data analysis.
+5. **Test, Debug, and Integration Service**: Facilitates the testing, debugging,
+   and integration of software components and systems within the lab
+   environment.
+6. **Database Service**: Provides a centralized platform for storing and
+   managing data related to research, development, and testing activities.
+
+
+## Client Network
+
+**Overview of the Client Network**:
+The Client Network is the primary communication and collaboration platform for
+employees of Tech-R-LY. It encompasses the devices, infrastructure, and services
+that enable employees to access resources, communicate with colleagues, and
+perform their daily tasks effectively.
+
+**Key Functions of the Client Network**:
+
+1. **Communication and Collaboration**: The Client Network facilitates
+   communication and collaboration among employees through email, messaging,
+   voice/video calls, and shared documents. It provides access to collaboration
+   tools and platforms that enhance teamwork and productivity.
+2. **Resource Access**: Employees rely on the Client Network to access essential
+   resources such as corporate applications, databases, files, and printers. It
+   provides seamless connectivity to internal servers and cloud-based services,
+   enabling employees to retrieve and manipulate data as needed.
+3. **Productivity and Efficiency**: The network supports productivity and
+   efficiency by offering reliable and high-performance computing resources. It
+   ensures that employees can perform their tasks without interruption and
+   access the tools and information necessary to meet deadlines and
+   deliverables.
+
+**Services Hosted in the Client Network**:
+
+1. **Client Router**: Manages network traffic, provides connectivity to internal
+   and external networks, and ensures the security and reliability of network
+   communications.
+
+2. **Client Workstations**: Individual computers used by employees for their
+   daily tasks, including web browsing, email communication, document creation,
+   and software development.
+
