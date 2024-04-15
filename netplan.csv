@@ -1,4 +1,5 @@
-﻿Nätplan, Tech-R-LY;;;
+﻿
+Nätplan, Tech-R-LY;;;
 ;;;
 Namn;IP-nätverk;VLAN;Beskrivning
 DMZ;10.0.1.0/24;2;Brandvägg, router, DNS, extern mail, extern webserver, webproxy för anställda.
